@@ -1,0 +1,6 @@
+cat 
+lire fd = 0
+
+Taille buffer fixe BUFFERSIZE 25000
+
+cat < Makefile juste lire le buffer ne pas depasser la taille pass de boucle infini

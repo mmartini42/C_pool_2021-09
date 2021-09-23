@@ -1,0 +1,5 @@
+Credentials cache: API:B68C0EAC-7A1D-4208-909E-4136372367E2
+        Principal: mathmart@42LYON.FR
+
+  Issued                Expires               Principal
+Aug 30 11:17:04 2021  Aug 31 11:17:04 2021  krbtgt/42LYON.FR@42LYON.FR
