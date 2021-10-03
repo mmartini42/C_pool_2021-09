@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mmartini42/C_pool_2021-09/?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/mmartini42/C_pool_2021-09/?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/mmartini42/C_pool_2021-09/?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mmartini42/C_pool_2021-09/?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mmartini42/C_pool_2021-09/?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mmartini42/C_pool_2021-09?color=cyan&style=for-the-badge">
+	<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/mmartini42/C_pool_2021-09?style=for-the-badge">
+	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/mmartini42/C_pool_2021-09?color=red&style=for-the-badge">
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mmartini42/C_Pool_2021-09?color=yellow&style=for-the-badge">
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mmartini42/C_pool_2021-09?style=for-the-badge">
 </p>
 
 ---
