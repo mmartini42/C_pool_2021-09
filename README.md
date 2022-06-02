@@ -18,7 +18,7 @@
 
 ## :camera: My 42 Piscine Intra Profile
 
-![mathmart's 42 piscine stats](https://badge42.herokuapp.com/api/stats/mathmart?cursus=C%20Piscine)
+![mathmart's 42 piscine stats](https://badge42.vercel.app/api/v2/cl3w9zs6r005409laqkyvif38/stats?cursusId=9&coalitionId=17)
 
 ## Fulfilled projects
 
